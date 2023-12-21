@@ -1,0 +1,58 @@
+// {
+//   "project_info": {
+//     "project_number": "1088040616874",
+//     "project_id": "testlab4-5cb5d",
+//     "storage_bucket": "testlab4-5cb5d.appspot.com"
+//   },
+//   "client": [
+//     {
+//       "client_info": {
+//         "mobilesdk_app_id": "1:1088040616874:android:25e49476f18875fb4861d3",
+//         "android_client_info": {
+//           "package_name": "com.lab4"
+//         }
+//       },
+//       "oauth_client": [],
+//       "api_key": [
+//         {
+//           "current_key": "AIzaSyA8-TEavPPXnAI5SbqMh0WrlQL3p1ah0KA"
+//         }
+//       ],
+//       "services": {
+//         "appinvite_service": {
+//           "other_platform_oauth_client": []
+//         }
+//       }
+//     }
+//   ],
+//   "configuration_version": "1"
+// }
+{
+  "project_info": {
+    "project_number": "901363824522",
+    "project_id": "excersise7",
+    "storage_bucket": "excersise7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901363824522:android:917fc3d55e12ebb9eafa73",
+        "android_client_info": {
+          "package_name": "com.lab4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfMECuGZ3D5_8eZdWbMH45b__HdgqOuy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
